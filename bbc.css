@@ -1,0 +1,194 @@
+<style type="text/css">
+		
+			/* TOP BAR SECTION*/
+			
+			#topbar{
+				width:1000px;
+				margin:0 auto;
+				height:40px;
+			}
+			body{
+				margin:0;
+				padding:0;
+				font-family: Helvetica, Arial, sans-serif;
+			}
+			#logo{
+				margin-top:8px;
+				width:100px;
+				float:left;
+				margin-right:8px;
+			}
+			.topbar-section{
+				float:left;
+				border-left: 1px #CCCCCc solid;
+				height:100%;
+			}
+			#signin-image{
+				margin:8px 15px;
+				width:30px;
+				height:30px;
+				float:left;
+			}
+			#signin-text{
+				float:left;
+				font-weight: bold;
+				text-align:center;
+				margin: 15px 8px;
+			}
+			.bell-border{
+				float:left;
+				border-left: 1px #CCCCCc dashed;
+				height:100%;
+				margin-left:15px;
+			}          
+			#bell-img{
+				margin: 9px 8px 0 8px;
+				width:30px;
+              	height:30px;
+				float:left;
+			}
+			.topbar-menu{
+				font-weight:bold;
+				font-size:90%;
+				padding: 14px 15px;
+				height: 11px;
+			}
+			#arrowimg{
+				float:left;
+				margin: 15px 8px;
+				height:15px;
+				width:15px;
+			}
+			#search-section{
+				float:left;
+				background-color:#CCCCCc;
+				font-weight:bold;
+				font-size:14px;
+				padding:5px;
+				margin:5px 0px 5px 5px;
+			}
+			#qumark{
+				float:right;
+				margin-top:5px;
+				background-color:#CCCCCc;
+				height:27px;
+			}
+			.clear{
+				clear:both;
+			}
+			
+			/*RED MENU BAR SECTION*/
+			
+			#menu-bar-container{
+				border-top:1px #CCCCCc solid; 
+				background-color:#bb1919;
+				width:100%;
+				height:70px;
+			}
+			#menu-topbar{
+				width:1000px;
+				margin:0 auto;
+			}
+			h1{
+				padding:0;
+				margin:0;
+				font-size:40px;
+				color:white;
+				font-weight:normal;
+				padding-top:10px;
+				float:left;
+			}
+			#lcnews
+			{
+				float:right;
+				border: 1px white solid;
+				width:250px;
+				padding:5px 5px 0px 10px;
+				margin: 5px 10px 0 0;
+			}
+			#lcnews a
+			{
+				text-decoration:none;
+				color:white;
+				font-size:30px;
+				position:relative;
+				top:-8px;
+			}
+			#lcnews a:hover
+			{
+				text-decoration:underline;
+				font-weight:normal;
+			}
+			#lcnews img
+			{
+				margin-left:3px;
+				height:40px;
+				width:25px;
+			}
+			#menu-bar-2-container
+			{
+				background-color:#A91717;
+				width:100%;
+			}
+			#menu-bar-2
+			{
+				width:1000px;
+				margin:0 auto;
+				height:30px;
+			}
+			.firstword-menu2
+			{
+				padding:0;
+				margin:0;
+				float:left;
+				color:white;
+				text-align:center;
+				margin-top:3px;
+				padding-left:8px;
+				padding-right:8px;
+			}
+			.topbar-menu2
+			{
+				border-left:1px #CCCCCc solid;
+				padding:0;
+				margin:0;
+				float:left;
+				color:white;
+				margin-top:3px;
+				padding-left:8px;
+				padding-right:8px;
+				text-align:center;
+			}
+			.firstword-menu2 a
+			{
+				text-decoration:none;
+				color:white;
+			}
+			.firstword-menu2 a:hover
+			{
+				text-decoration:underline;
+			}
+			.topbar-menu2 a
+			{
+				text-decoration:none;
+				color:white;
+			}
+			.topbar-menu2 a:hover
+			{
+				text-decoration:underline;
+			}
+			#down-arrow
+			{
+				height:10px;
+				position:relative;
+				top:8px;
+			}
+			
+			/*MAIN PAGE SECTION*/
+			
+			#page-container
+			{
+				width:1000px;
+				margin:0 auto;
+			}
+		</style>
